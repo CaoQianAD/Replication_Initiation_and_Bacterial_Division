@@ -1,0 +1,78 @@
+﻿NO,gene,Ecocyc_GO0051301_CellDivision,Analysis_Used,locus_tag,product,length,strand,RNAseq,COG_Genes,COG_Category,COG_Category_Desc
+1,amiA,amiA,TRUE,b2435,N-acetylmuramoyl-L-alanine amidase A,870,+,amiA,amiA,M,Cell wall/membrane/envelope biogenesis
+2,amiB,amiB,TRUE,b4169,N-acetylmuramoyl-L-alanine amidase B,1338,+,amiB,amiB,M,Cell wall/membrane/envelope biogenesis
+3,amiC,amiC,TRUE,b2817,N-acetylmuramoyl-L-alanine amidase C,1254,-,amiC,amiC,M,Cell wall/membrane/envelope biogenesis
+4,cedA,cedA,TRUE,b1731,cell division modulator,243,-,cedA,#N/A,#N/A,#N/A
+5,clpX,clpX,TRUE,b0438,ATP-dependent Clp protease ATP-binding subunit ClpX,1275,+,clpX,clpX,O,"Posttranslational modification, protein turnover, chaperones"
+6,cpoB,cpoB,TRUE,b0742,cell division coordinator CpoB,792,+,cpoB,cpoB,D,"Cell cycle control, cell division, chromosome partitioning"
+7,dacA,dacA,TRUE,b0632,D-alanyl-D-alanine carboxypeptidase DacA,1212,-,dacA,dacA,M,Cell wall/membrane/envelope biogenesis
+8,dacB,dacB,TRUE,b3182,peptidoglycan DD-endopeptidase DacB,1434,+,dacB,dacB,M,Cell wall/membrane/envelope biogenesis
+9,damX,damX,TRUE,b3388,cell division protein DamX,1287,-,damX,damX,D,"Cell cycle control, cell division, chromosome partitioning"
+10,dedD,dedD,TRUE,b2314,cell division protein DedD,663,-,dedD,dedD,D,"Cell cycle control, cell division, chromosome partitioning"
+11,dicA,dicA,TRUE,b1570,DNA-binding transcriptional dual regulator DicA,408,+,dicA,dicA,K,Transcription
+12,dicB,dicB,TRUE,b1575,cell division inhibition protein DicB,189,+,dicB,#N/A,#N/A,#N/A
+13,dicC,dicC,TRUE,b1569,putative DNA-binding transcriptional regulator DicC,231,-,dicC,#N/A,#N/A,#N/A
+14,dolP,/,TRUE,b3150,division and outer membrane stress-associated lipid-binding lipoprotein,576,+,dolP,dolP,M,Cell wall/membrane/envelope biogenesis
+15,drpB,DrpB,TRUE,b1963,cell division protein DrpB,303,-,drpB,#N/A,#N/A,#N/A
+16,emtA,emtA,TRUE,b1193,lytic murein transglycosylase E,612,+,emtA,emtA,M,Cell wall/membrane/envelope biogenesis
+17,envC,envC,TRUE,b3613,murein hydrolase activator EnvC,1260,+,envC,envC,D,"Cell cycle control, cell division, chromosome partitioning"
+18,ftsA,ftsA,TRUE,b0094,cell division protein FtsA,1263,+,ftsA,ftsA,D,"Cell cycle control, cell division, chromosome partitioning"
+19,ftsB,ftsB,TRUE,b2748,cell division protein FtsB,312,-,ftsB,ftsB,D,"Cell cycle control, cell division, chromosome partitioning"
+20,ftsE,ftsE,TRUE,b3463,cell division protein FtsE,669,-,ftsE,ftsE,D,"Cell cycle control, cell division, chromosome partitioning"
+21,ftsI,ftsI,TRUE,b0084,peptidoglycan DD-transpeptidase FtsI,1767,+,ftsI,ftsI,D,"Cell cycle control, cell division, chromosome partitioning"
+22,ftsK,ftsK,TRUE,b0890,cell division DNA translocase FtsK,3990,+,ftsK,ftsK,D,"Cell cycle control, cell division, chromosome partitioning"
+23,ftsL,ftsL,TRUE,b0083,cell division protein FtsL,366,+,ftsL,ftsL,D,"Cell cycle control, cell division, chromosome partitioning"
+24,ftsN,ftsN,TRUE,b3933,cell division protein FtsN,960,-,ftsN,ftsN,D,"Cell cycle control, cell division, chromosome partitioning"
+25,ftsP,ftsP,TRUE,b3017,cell division protein FtsP,1413,-,ftsP,ftsP,D,"Cell cycle control, cell division, chromosome partitioning"
+26,ftsQ,ftsQ,TRUE,b0093,cell division protein FtsQ,831,+,ftsQ,ftsQ,D,"Cell cycle control, cell division, chromosome partitioning"
+27,ftsW,ftsW,TRUE,b0089,peptidoglycan glycosyltransferase FtsW,1245,+,ftsW,ftsW,D,"Cell cycle control, cell division, chromosome partitioning"
+28,ftsX,ftsX,TRUE,b3462,cell division protein FtsX,1059,-,ftsX,ftsX,D,"Cell cycle control, cell division, chromosome partitioning"
+29,ftsZ,ftsZ,TRUE,b0095,cell division protein FtsZ,1152,+,ftsZ,ftsZ,D,"Cell cycle control, cell division, chromosome partitioning"
+30,ispU,ispU,TRUE,b0174,ditrans%2Cpolycis-undecaprenyl-diphosphate synthase [(2E%2C6E)-farnesyl-diphosphate specific],762,+,ispU,ispU,I,Lipid transport and metabolism
+31,kilR,kilR,TRUE,b1352,inhibitor of FtsZ,222,-,kilR,#N/A,#N/A,#N/A
+32,matP,matP,TRUE,b0956,macrodomain Ter protein,453,+,matP,matP,L,"Replication, recombination and repair"
+33,minC,minC,TRUE,b1176,Z-ring positioning protein MinC,696,-,minC,minC,D,"Cell cycle control, cell division, chromosome partitioning"
+34,minD,minD,TRUE,b1175,Z-ring positioning protein MinD,813,-,minD,minD,D,"Cell cycle control, cell division, chromosome partitioning"
+35,minE,minE,TRUE,b1174,Z-ring positioning protein MinE,267,-,minE,minE,D,"Cell cycle control, cell division, chromosome partitioning"
+36,mltC,mltC,TRUE,b2963,membrane-bound lytic murein transglycosylase C,1080,+,mltC,mltC,M,Cell wall/membrane/envelope biogenesis
+37,mpl,mpl,TRUE,b4233,UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2%2C6-diaminoheptanedioate ligase,1374,+,mpl,mpl,M,Cell wall/membrane/envelope biogenesis
+38,mraY,mraY,TRUE,b0087,phospho-N-acetylmuramoyl-pentapeptide-transferase,1083,+,mraY,mraY,M,Cell wall/membrane/envelope biogenesis
+39,mrdB,mrdB,TRUE,b0634,peptidoglycan glycosyltransferase MrdB,1113,-,mrdB,mrdB,D,"Cell cycle control, cell division, chromosome partitioning"
+40,mukB,mukB,TRUE,b0924,chromosome partitioning protein MukB,4461,+,mukB,mukB,D,"Cell cycle control, cell division, chromosome partitioning"
+41,mukE,mukE,TRUE,b0923,chromosome partitioning protein MukE,705,+,mukE,mukE,D,"Cell cycle control, cell division, chromosome partitioning"
+42,mukF,mukF,TRUE,b0922,chromosome partitioning protein MukF,1323,+,mukF,mukF,D,"Cell cycle control, cell division, chromosome partitioning"
+43,murA,murA,TRUE,b3189,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,1260,-,murA,murA,M,Cell wall/membrane/envelope biogenesis
+44,murB,murB,TRUE,b3972,UDP-N-acetylenolpyruvoylglucosamine reductase,1029,+,murB,murB,M,Cell wall/membrane/envelope biogenesis
+45,murC,murC,TRUE,b0091,UDP-N-acetylmuramate--L-alanine ligase,1476,+,murC,murC,M,Cell wall/membrane/envelope biogenesis
+46,murD,murD,TRUE,b0088,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,1317,+,murD,murD,M,Cell wall/membrane/envelope biogenesis
+47,murE,murE,TRUE,b0085,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase,1488,+,murE,murE,M,Cell wall/membrane/envelope biogenesis
+48,murF,murF,TRUE,b0086,D-alanyl-D-alanine-adding enzyme,1359,+,murF,murF,M,Cell wall/membrane/envelope biogenesis
+49,murG,murG,TRUE,b0090,N-acetylglucosaminyl transferase,1068,+,murG,murG,M,Cell wall/membrane/envelope biogenesis
+50,nagZ,nagZ,TRUE,b1107,beta-N-acetylglucosaminidase,1026,+,nagZ,nagZ,G,Carbohydrate transport and metabolism
+51,nlpD,nlpD,TRUE,b2742,murein hydrolase activator NlpD,1140,-,nlpD,nlpD,M,Cell wall/membrane/envelope biogenesis
+52,nlpI,nlpI,TRUE,b3163,lipoprotein NlpI,885,-,nlpI,nlpI,M,Cell wall/membrane/envelope biogenesis
+53,pal,pal,TRUE,b0741,peptidoglycan-associated outer membrane lipoprotein Pal,522,+,pal,pal,M,Cell wall/membrane/envelope biogenesis
+54,radD,radD,TRUE,b2184,putative DNA repair helicase RadD,1761,+,radD,radD,K,Transcription
+55,rng,rng,TRUE,b3247,RNase G,1470,-,rng,rng,J,"Translation, ribosomal structure and biogenesis"
+56,sdiA,sdiA,TRUE,b1916,DNA-binding transcriptional dual regulator SdiA,723,-,sdiA,sdiA,K,Transcription
+57,slmA,slmA,TRUE,b3641,nucleoid occlusion factor SlmA,597,+,slmA,slmA,K,Transcription
+58,sulA,sulA,TRUE,b0958,cell division inhibitor SulA,510,-,sulA,sulA,D,"Cell cycle control, cell division, chromosome partitioning"
+59,tig,tig,TRUE,b0436,trigger factor,1299,+,tig,tig,O,"Posttranslational modification, protein turnover, chaperones"
+60,tolA,tolA,TRUE,b0739,Tol-Pal system protein TolA,1266,+,tolA,tolA,M,Cell wall/membrane/envelope biogenesis
+61,tolB,tolB,TRUE,b0740,Tol-Pal system periplasmic protein TolB,1293,+,tolB,tolB,U,"Intracellular trafficking, secretion, and vesicular transport"
+62,tolQ,tolQ,TRUE,b0737,Tol-Pal system protein TolQ,693,+,tolQ,tolQ,U,"Intracellular trafficking, secretion, and vesicular transport"
+63,tolR,tolR,TRUE,b0738,Tol-Pal system protein TolR,429,+,tolR,tolR,U,"Intracellular trafficking, secretion, and vesicular transport"
+64,xerC,xerC,TRUE,b3811,site-specific tyrosine recombinase,897,+,xerC,xerC,L,"Replication, recombination and repair"
+65,xerD,xerD,TRUE,b2894,site-specific recombinase,897,-,xerD,xerD,L,"Replication, recombination and repair"
+66,ycjY,ycjY,TRUE,b1327,putative hydrolase YcjY,921,-,ycjY,ycjY,T,Signal transduction mechanisms
+67,yihA,yihA,TRUE,b3865,GTP-binding protein YihA,633,-,yihA,yihA,D,"Cell cycle control, cell division, chromosome partitioning"
+68,ymgF,ymgF,TRUE,b4520,inner membrane protein YmgF,219,+,ymgF,#N/A,#N/A,#N/A
+69,ytfB,ytfB,TRUE,b4206,cell division protein YtfB,639,-,ytfB,ytfB,D,"Cell cycle control, cell division, chromosome partitioning"
+70,zapA,zapA,TRUE,b2910,cell division protein ZapA,330,+,zapA,zapA,D,"Cell cycle control, cell division, chromosome partitioning"
+71,zapB,zapB,TRUE,b3928,cell division factor ZapB,246,+,zapB,zapB,D,"Cell cycle control, cell division, chromosome partitioning"
+72,zapC,zapC,TRUE,b0946,cell division protein ZapC,543,+,zapC,#N/A,#N/A,#N/A
+73,zapD,zapD,TRUE,b0102,cell division factor ZapD,744,-,zapD,zapD,D,"Cell cycle control, cell division, chromosome partitioning"
+74,zapE,zapE,TRUE,b3232,cell division protein ZapE,1128,-,zapE,zapE,D,"Cell cycle control, cell division, chromosome partitioning"
+75,zapG,yhcB,TRUE,b3233,Z-ring associated protein G,399,/,zapG,#N/A,#N/A,#N/A
+76,zipA,zipA,TRUE,b2412,cell division protein ZipA,987,-,zipA,zipA,D,"Cell cycle control, cell division, chromosome partitioning"
+77,blr,blr,FALSE,b4409,beta-lactam resistance protein,126,+,blr,#N/A,#N/A,#N/A

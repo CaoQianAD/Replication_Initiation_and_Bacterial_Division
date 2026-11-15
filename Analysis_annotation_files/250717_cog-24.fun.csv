@@ -1,0 +1,27 @@
+﻿Major_Group_ID,Major_Group,Functional category ID ,Hexadecimal RGB color associated with the functional category,R,G,B,Functional category description
+1,Information storage and processing,A,FCDCFC,252,220,252,RNA processing and modification
+1,Information storage and processing,B,FCDCCC,252,220,204,Chromatin structure and dynamics
+1,Information storage and processing,J,FCCCFC,252,204,252,"Translation, ribosomal structure and biogenesis"
+1,Information storage and processing,K,FCDCEC,252,220,236,Transcription
+1,Information storage and processing,L,FCDCDC,252,220,220,"Replication, recombination and repair"
+2,Cellular processes and signaling,D,FCFCCC,252,252,204,"Cell cycle control, cell division, chromosome partitioning"
+2,Cellular processes and signaling,M,DCFCAC,220,252,172,Cell wall/membrane/envelope biogenesis
+2,Cellular processes and signaling,N,CCFCAC,204,252,172,Cell motility
+2,Cellular processes and signaling,O,9CFC9C,156,252,156,"Posttranslational modification, protein turnover, chaperones"
+2,Cellular processes and signaling,T,ECFCAC,236,252,172,Signal transduction mechanisms
+2,Cellular processes and signaling,U,9CFCAC,156,252,172,"Intracellular trafficking, secretion, and vesicular transport"
+2,Cellular processes and signaling,V,FCFCAC,252,252,172,Defense mechanisms
+2,Cellular processes and signaling,W,ACFCAC,172,252,172,Extracellular structures
+2,Cellular processes and signaling,X,F2F2F2,242,242,242,"Mobilome: prophages, transposons"
+2,Cellular processes and signaling,Y,FCFCBC,252,252,188,Nuclear structure
+2,Cellular processes and signaling,Z,BCFCAC,188,252,172,Cytoskeleton
+3,Metabolism,C,BCFCFC,188,252,252,Energy production and conversion
+3,Metabolism,E,DCFCFC,220,252,252,Amino acid transport and metabolism
+3,Metabolism,F,DCECFC,220,236,252,Nucleotide transport and metabolism
+3,Metabolism,G,CCFCFC,204,252,252,Carbohydrate transport and metabolism
+3,Metabolism,H,DCDCFC,220,220,252,Coenzyme transport and metabolism
+3,Metabolism,I,DCCCFC,220,204,252,Lipid transport and metabolism
+3,Metabolism,P,CCCCFC,204,204,252,Inorganic ion transport and metabolism
+3,Metabolism,Q,BCCCFC,188,204,252,"Secondary metabolites biosynthesis, transport and catabolism"
+4,Poorly characterized,R,E0E0E0,224,224,224,General function prediction only
+4,Poorly characterized,S,CCCCCC,204,204,204,Function unknown
