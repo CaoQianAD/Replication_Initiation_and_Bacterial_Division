@@ -1,6 +1,6 @@
 # Replication initiation and bacterial division: Table S4 analyses
 
-This repository provides four scripts for comprehensive analyses of the processed DNA-seq, RNA-seq and protein abundance measurements supplied in Table S4 of the associated manuscript. The scripts reproduce key manuscript analyses and generate additional exploratory results and diagnostic outputs. N
+This repository provides four scripts for comprehensive analyses of the processed DNA-seq, RNA-seq and protein abundance measurements supplied in Table S4 of the associated manuscript. The scripts reproduce key manuscript analyses and generate additional exploratory results.
 
 The published protein subset is sufficient for the protein summary script. The unpublished full proteome and full hns transcriptome matrices are not required. Additional data can be requested from the corresponding author.
 
@@ -10,15 +10,15 @@ Place the four scripts and Table S4 in the repository root, alongside the `Analy
 
 | File or directory | Purpose |
 |---|---|
-| `dnaAupshift_analysis.R` | RNA filtering, DNA dosage correction, response identification, clustering and functional enrichment after dnaA upshift |
-| `Protein_mean_SD_Cal.R` | PPM and relative PPM means and sample SD for the protein groups supplied in Table S4 |
-| `Babymachine_CCR_analysis.m` | Baby-machine DNA/RNA processing, per-gene correction and fitting, CCR identification and cell-number fitting |
-| `Babymachine_CCR_clustering_COG.R` | Clustering, heatmaps, k-means diagnostics and COG/TF enrichment of the CCR genes calculated by MATLAB |
-| `TableS4*.xlsx` | Table S4 workbook; its filename must start with `TableS4` and end with `.xlsx` for automatic detection |
-| [`Analysis_annotation_files/`](Analysis_annotation_files/) | Supplied gene, COG and transcription-factor annotations |
-| `results/` | Generated analysis outputs; created automatically |
+| dnaAupshift_analysis.R | RNA filtering, DNA dosage correction, response identification, clustering and functional enrichment after dnaA upshift |
+| Protein_mean_SD_Cal.R | PPM and relative PPM means and sample SD for the protein groups supplied in Table S4 |
+| Babymachine_CCR_analysis.m | Baby-machine DNA/RNA processing, per-gene correction and fitting, CCR identification and cell-number fitting |
+| Babymachine_CCR_clustering_COG.R | Clustering, heatmaps, k-means diagnostics and COG/TF enrichment of the CCR genes calculated by MATLAB |
+| TableS4*.xlsx | Table S4 workbook; its filename must start with `TableS4` and end with `.xlsx` for automatic detection |
+| Analysis_annotation_files| Supplied gene, COG and transcription-factor annotations |
+| results| Generated analysis outputs; created automatically |
 
-Each script contains its own analysis functions. No additional analysis scripts are required. Run `Babymachine_CCR_analysis.m` in `all` or `omics` mode before running `Babymachine_CCR_clustering_COG.R`. The other two scripts can be run independently.
+Each script contains its own analysis functions. No additional analysis scripts are required. Run Babymachine_CCR_analysis.m in `all` or `omics` mode before running Babymachine_CCR_clustering_COG.R. The other two scripts can be run independently.
 
 ## Cluster labels in the manuscript
 
