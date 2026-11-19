@@ -8,7 +8,7 @@ The published protein subset is sufficient for the protein summary script. The u
 
 Place the four scripts and Table S4 in the repository root, alongside the `Analysis_annotation_files` directory. Preserve the annotation filenames and directory name.
 
-| File or directory | Purpose |
+| File or directory | Purpose and notes|
 |---|---|
 | dnaAupshift_analysis.R | RNA filtering, DNA dosage correction, response identification, clustering and functional enrichment after dnaA upshift |
 | Protein_mean_SD_Cal.R | PPM and relative PPM means and sample SD for the protein groups supplied in Table S4 |
@@ -17,6 +17,7 @@ Place the four scripts and Table S4 in the repository root, alongside the `Analy
 | TableS4*.xlsx | Table S4 workbook; its filename must start with `TableS4` and end with `.xlsx` for automatic detection |
 | Analysis_annotation_files| Supplied gene, COG and transcription-factor annotations |
 | results| Generated analysis outputs; created automatically |
+| Batch2 proteomics reproduction for Table S4| reconstructs the full protein-group abundance tables and the dnaA and hns preprocessing flags used to generate the proteomics portion of Table S4. The Batch2 DIA-NN output file (`report.parquet`) required to run the workflow is available from the corresponding author upon request. See the workflow README for processing details and instructions.|
 
 Each script contains its own analysis functions. No additional analysis scripts are required. Run Babymachine_CCR_analysis.m in `all` or `omics` mode before running Babymachine_CCR_clustering_COG.R. The other two scripts can be run independently.
 
