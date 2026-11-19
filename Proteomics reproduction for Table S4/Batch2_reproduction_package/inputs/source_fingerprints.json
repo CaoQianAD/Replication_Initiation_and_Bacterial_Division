@@ -1,0 +1,12 @@
+{
+  "260726_hns_dnaA_upshift_Combined_ExpInfo.csv": "43ec9f976583cdd14a3e5bda5133fbee005c0950db8bc65a2c68b4a72ce50803",
+  "Sample_Inclusion_Frozen.csv": "a0ea880b908c4901829f1f3283499dc4fb740eb0fd7a069b36018dc6c31dd291",
+  "S02_protein_source_classification.csv": "5b0bb10d5930ba31e0abdb4575675114461548f498966ed3422a3a5ab79f4343",
+  "final_database_v4_DIANN_dnaKanR.fasta": "24128afd95487c181afcf7be806e8cc6bb3e790621b5e9a8c30bab12204cb142",
+  "report.parquet": "6463b1f1a511c72990df82c0d376e2af97fbdcbb11ac2bdac153dadc3e239f2e",
+  "run_stage2_v2_1.py": "a434c8eda7f080a72baa6d5123bf02a4efe7ab756c32d85cd0937ea6635d8586",
+  "standardized_omics_response_pipeline_dnaAprotein_260823_V5.R": "821abec5bac36742442b46869a977a62ef2d5b08cfeb54fe61848244803deed6",
+  "standardized_omics_response_pipeline_hnsprotein_260823_V1.R": "72b9c14ed59a8978b3cc993da6782c3f72368ddc97a340c173dcce2539ba966a",
+  "20260727_Division_GenesInfo.csv": "7e9e1781ac6fcae08d22400031611cb0da43ddd0a584ea621c0dd53ea37a4a6f",
+  "TableS4_Protein.xlsx": "352ebcf25d4a6c3c1fbf4d2348d78beec1a664bae75e04362ad2d42fe484a892"
+}
